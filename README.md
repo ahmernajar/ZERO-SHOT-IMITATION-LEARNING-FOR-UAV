@@ -72,9 +72,6 @@ Although deep learning based approaches have been successful in addressing many 
 also be easily incorporated into our framework.
 As a concluding comment, we acknowledge that many problems require complex solutions, but that does not mean that simple baselines should be ignored. On the contrary, simple but strong baselines both bring light about which paths to follow in order to build more sophisticated solutions, and also provide a way to measure the quality of these solutions.
 # References
-Fig.2 Testing the drone a different straight path.
-  Fig.3 Training the drone on a curvy path
-  Fig. 4 Testing the drone on a different curvy path.
 [1] C. Lampert, H. Nickisch, and S. Harmeling, “Attribute-based classification for zero-shot visual object categorization,” in TPAMI, 2013.
 [2] H. Larochelle, D. Erhan, and Y. Bengio, “Zero-data learning of new tasks,” in AAAI, 2008.
 [3] M. Rohrbach, M. Stark, and B.Schiele, “Evaluating knowledge transfer and zero-shot learning in a large-scale setting,” in CVPR, 2011.
