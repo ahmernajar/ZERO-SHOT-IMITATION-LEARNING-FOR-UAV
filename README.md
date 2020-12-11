@@ -71,8 +71,7 @@ We’ve presented LSTM, Conv3D, Conv2D and LRCN, a class of models that is both 
 Although deep learning based approaches have been successful in addressing many problems, effective network architectures are urgently needed for modelling sequential data like the videos. Several researchers have recently explored this direction. However, compared with the progress on image classification, the achieved performance gain on video classification over the traditional hand- crafted features is much less significant. Our work in this paper represents one of the few studies showing very strong results. For future work, further improving the capability of modelling the temporal dimension of videos is of high priority. In addition, audio features which are known to be useful for video classification can
 also be easily incorporated into our framework.
 As a concluding comment, we acknowledge that many problems require complex solutions, but that does not mean that simple baselines should be ignored. On the contrary, simple but strong baselines both bring light about which paths to follow in order to build more sophisticated solutions, and also provide a way to measure the quality of these solutions.
-Fig.1 Training the drone on the above straight path. 
-References
+# References
 Fig.2 Testing the drone a different straight path.
   Fig.3 Training the drone on a curvy path
   Fig. 4 Testing the drone on a different curvy path.
