@@ -1,6 +1,6 @@
 # ZERO-SHOT-IMITATION-LEARNING-FOR-UAV
 
-# Ahmer Jalil Najar ,                                             Ganesh Rapeti ,                                                        Mohd Kashif Ansari
+# Ahmer Jalil Najar ,                                             Ganesh Rapeti ,                                                        
 # Abstract  
 Zero-shot learning consists in training a machine/agent with little or no training examples and then testing it on similar random test examples. Convolutional networks are at the core of most state-of-the-art computer vision solutions for a wide variety of tasks. There are very few models that can utilise useful feature but do not learn end to end embedding thus the architecture of our model uses Convolutional Neural Networks (CNN) to extract features of the frames from video (recorded by the drone) and thus making these features as input to the LSTM to remember the input over a long period of time. Thus, making it easy to classify between different labels. We have developed four deep learning models to carry out this task. 
     
